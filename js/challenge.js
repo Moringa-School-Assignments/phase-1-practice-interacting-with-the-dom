@@ -44,7 +44,7 @@ function pauseIt() {
         plus.disabled = true;
         minus.disabled = true;
         submit.disabled = true;
-        heart.disabled = false;
+        heart.disabled = true;
 
     }
 }
